@@ -1,0 +1,11 @@
+C:\Users\Daria\source\repos\MathGameNew\bin\Debug\netcoreapp3.0\MathGameNew.exe
+C:\Users\Daria\source\repos\MathGameNew\bin\Debug\netcoreapp3.0\MathGameNew.deps.json
+C:\Users\Daria\source\repos\MathGameNew\bin\Debug\netcoreapp3.0\MathGameNew.runtimeconfig.json
+C:\Users\Daria\source\repos\MathGameNew\bin\Debug\netcoreapp3.0\MathGameNew.runtimeconfig.dev.json
+C:\Users\Daria\source\repos\MathGameNew\bin\Debug\netcoreapp3.0\MathGameNew.dll
+C:\Users\Daria\source\repos\MathGameNew\bin\Debug\netcoreapp3.0\MathGameNew.pdb
+C:\Users\Daria\source\repos\MathGameNew\obj\Debug\netcoreapp3.0\MathGameNew.csprojAssemblyReference.cache
+C:\Users\Daria\source\repos\MathGameNew\obj\Debug\netcoreapp3.0\MathGameNew.AssemblyInfoInputs.cache
+C:\Users\Daria\source\repos\MathGameNew\obj\Debug\netcoreapp3.0\MathGameNew.AssemblyInfo.cs
+C:\Users\Daria\source\repos\MathGameNew\obj\Debug\netcoreapp3.0\MathGameNew.dll
+C:\Users\Daria\source\repos\MathGameNew\obj\Debug\netcoreapp3.0\MathGameNew.pdb
